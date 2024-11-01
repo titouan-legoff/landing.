@@ -1,0 +1,21 @@
+.banner{
+	background-image: url(../../images/banner-FCB.jpg);
+	color: white;
+	background-position: center;
+	background-size: cover;
+	padding: 150px 0px;
+}
+
+.banner h1{
+	color: white;
+	font-size: 50px;
+}
+
+.banner h2{
+	color: white;
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.9;
+	margin-bottom: 35px;
+
+}
